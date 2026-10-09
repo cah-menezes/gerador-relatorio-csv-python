@@ -1,0 +1,11 @@
+usuario;data;acao;status
+joao.silva;2026-10-01;login;sucesso
+maria.souza;2026-10-01;acesso_arquivo;sucesso
+pedro.lima;2026-10-01;login;falha
+ana.costa;2026-10-02;alteracao_senha;sucesso
+joao.silva;2026-10-02;acesso_arquivo;sucesso
+pedro.lima;2026-10-02;login;falha
+maria.souza;2026-10-03;logout;sucesso
+ana.costa;2026-10-03;login;sucesso
+pedro.lima;2026-10-03;login;falha
+joao.silva;2026-10-03;alteracao_senha;sucesso
